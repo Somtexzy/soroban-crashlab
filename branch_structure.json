@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1833-idempotent-run-and-campaign-creation-via",
+    "feat/issue-1873-state-change-diff-view-readable-before-after",
+    "fix/issue-1827-pr-performance-budgets-bundle-route-js-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1833-idempotent-run-and-campaign-creation-via": "main",
+    "feat/issue-1873-state-change-diff-view-readable-before-after": "main",
+    "fix/issue-1827-pr-performance-budgets-bundle-route-js-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1833-idempotent-run-and-campaign-creation-via",
+    "feat/issue-1873-state-change-diff-view-readable-before-after",
+    "fix/issue-1827-pr-performance-budgets-bundle-route-js-and",
+    "origin"
+  ]
+}
